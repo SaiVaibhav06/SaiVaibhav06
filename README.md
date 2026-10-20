@@ -12,7 +12,7 @@ I build production-style AI applications and full-stack systems: LLM agents, emb
 ```console
 $ neofetch --short
   role       AI Software Developer Intern @ KGRCET
-  hackathon  🏆 1st of 120+ teams, NASSCOM GenAI Forge (Feb 2026)
+  hackathon  1st of 120+ teams, NASSCOM GenAI Forge (Feb 2026)
   shipped    kgrikarus.com (live tech fest platform)
   stack      React · FastAPI · Node.js · Supabase · pgvector
   speaks     English, Telugu
